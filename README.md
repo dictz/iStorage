@@ -1,4 +1,5 @@
 # iStorage
+<pre>
 Вариант сочетания возможностей IndexedDB с простотой LocalStorage 
 Демонстрация:
 https://dictz.github.io/iStorage_demo.html
@@ -31,3 +32,4 @@ https://dictz.github.io/iStorage_demo.html
     true - была ошибка; false - ошибки небыло.
     
     Это значение возвращается всеми obj.функция(ми) кроме getItem.
+</pre>
